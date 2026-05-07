@@ -1,5 +1,18 @@
 # 💫 About Me:
-SQL • Python • ETL • Data Analytics • Data Warehousing  <br>Aspiring Data Engineer building practical data projects.
+Hi, I’m Azli — an aspiring Data Engineer with a strong interest in Data Analytics, Data Science, and building data-driven solutions using SQL and Python.
+
+I enjoy working with data, exploring patterns, creating visualizations, and transforming raw information into meaningful insights. My current learning journey is focused on SQL, ETL workflows, data warehousing, analytics, and visualization while continuously improving my problem-solving and technical skills through hands-on projects.
+
+Here, you’ll find projects related to:
+• SQL & Advanced Querying  
+• Data Analytics & Visualization  
+• Python for Data Science  
+• Exploratory Data Analysis (EDA)  
+• ETL & Data Warehousing Concepts  
+
+I believe in learning by building, and I’m constantly exploring new technologies, improving my skills, and creating projects that strengthen my understanding of real-world data systems.
+
+Currently growing in the field of Data Engineering and Analytics 🚀
 
 
 ## 🌐 Socials:
